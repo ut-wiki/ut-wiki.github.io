@@ -2,3 +2,4 @@
 ## Welcome to "UT-Wiki",Now is Creating.
 ### 友情链接
 #### 试试访问其他[UT-wiki](/../links/)？
+#### [致小鬼的一封信](/../DSSQ/)
