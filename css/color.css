@@ -1,0 +1,63 @@
+.big
+{
+	font-size:30px;
+}
+.small
+{
+	font-size:10px;
+}
+.pb
+{
+	color:pink;
+	font-size:30px;
+}
+.ps
+{
+	color:pink;
+	font-size:10px;
+}
+.rb
+{
+	color:red;
+	font-size:30px;
+}
+.rs
+{
+	color:red;
+	font-size:10px;
+}
+.yb
+{
+	color:yellow;
+	font-size:30px;
+}
+.ys
+{
+	color:yellow;
+	font-size:10px;
+}
+.bb
+{
+	color:black;
+	font-size:30px;
+}
+.bs
+{
+	color:black;
+	font-size:10px;
+}
+.gb
+{
+	color:lime;
+	font-size:30px;
+}
+.gs
+{
+	color:lime;
+	font-size:20px;
+}
+.tb
+{
+	color:teal;
+	font-size:30px
+}
